@@ -1,0 +1,6 @@
+[{ 
+"id": "edit",
+"children":[
+		{"caption":"Go_Link","command":"skin_edit"}
+	]
+}] 
